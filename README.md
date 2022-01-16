@@ -3,3 +3,4 @@
 自分のリポジトリで更新
 rebaseで変更
 stashテスト
+trackファイル
